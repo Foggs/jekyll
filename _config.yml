@@ -9,7 +9,7 @@
 title: Fog Blog
 email: info@rfoggo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Freelance web designer, develooper
+  Freelance web designer, developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rfoggo.com" # the base hostname & protocol for your site
 twitter_username: robfoggo
